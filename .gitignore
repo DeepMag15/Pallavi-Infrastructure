@@ -1,0 +1,18 @@
+# Source material, not used by the site (raw WhatsApp media and the visiting card)
+reference/
+*.pdf
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Tooling
+node_modules/
+.claude/
+*.log
