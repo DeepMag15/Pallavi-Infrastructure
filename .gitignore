@@ -1,5 +1,6 @@
 # Source material, not used by the site (raw WhatsApp media and the visiting card)
 reference/
+social_media/
 *.pdf
 
 # OS files
